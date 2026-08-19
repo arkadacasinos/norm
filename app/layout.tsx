@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     locale: 'ru_RU',
     url: siteUrl,
     siteName: 'Norm Casino',
-    title: 'Norm Casino — официальный сайт и понятный гид',
+    title: 'Norm Casino — официальный сайт и понятный гид,',
     description: 'Практичный маршрут по Norm Casino: официальный адрес, зеркало, игры и ответственное использование.',
   },
   twitter: {
