@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
-const siteUrl = 'https://normcasino.vercel.app/'
+const siteUrl = 'https://normcasino1.vercel.app/'
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
